@@ -1,0 +1,22 @@
+body{
+  background-image: url("https://download.unsplash.com/photo-1429963357583-999c3121a8ce");
+  font-family: "Courier New", Courier, monospace;
+  background-size: 100% auto;
+}
+
+.name{
+  color: white;
+/*  font-weight: 700; */
+  font-size: 60px;
+  padding: 10px;
+  padding-left: 20px;
+  margin: 15px;
+  text-align: center;
+}
+
+.nav{
+  width: 100px;
+  float: right;
+  display: inline-block;
+  color: white;
+}
